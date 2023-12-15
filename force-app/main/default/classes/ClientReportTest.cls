@@ -1,5 +1,6 @@
 @isTest
 public class ClientReportTest {
+    //Isto é um teste para a investigação sobre o DEVOPS :)
 	
     @isTest
     public static void reportCreation(){
